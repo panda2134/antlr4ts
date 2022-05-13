@@ -1,6 +1,6 @@
 {
-  "name": "antlr4ts",
-  "version": "0.5.0-dev",
+  "name": "@panda2134/antlr4ts-esm",
+  "version": "0.5.0-dev2",
   "description": "ANTLR 4 runtime for JavaScript written in Typescript",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,9 @@
   },
   "keywords": [
     "ANTLR4",
-    "typescript"
+    "typescript",
+    "esm",
+    "esmodules"
   ],
   "author": "Terence Parr, Sam Harwell, and Burt Harris",
   "license": "BSD-3-Clause",

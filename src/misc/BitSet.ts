@@ -3,8 +3,8 @@
  * Licensed under the BSD-3-Clause license. See LICENSE file in the project root for license information.
  */
 
-import * as assert from "assert";
-import * as util from "util";
+import assert from "assert";
+import util from "util";
 import { MurmurHash } from "./MurmurHash";
 
 /**

@@ -3,8 +3,8 @@
  * Licensed under the BSD-3-Clause license. See LICENSE file in the project root for license information.
  */
 
-import * as fs from "fs";
-import * as util from "util";
+import fs from "fs";
+import util from "util";
 
 import { ATN } from "../atn/ATN";
 import { Vocabulary } from "../Vocabulary";
